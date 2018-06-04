@@ -1,0 +1,63 @@
+.container{
+	background: black;
+	height: 100%;
+	width: 100%;
+
+}
+.header{
+
+background:  red;
+
+height:  100px;
+
+width:  100%;
+}
+.menu{
+    background:  yellow;
+    height: 100px;
+    width:  70%;
+    float:  right;
+}
+.logo{
+    background:  blue;
+    height:  100px;
+    width:  30%;
+    float:  left;
+}
+.banner{
+    background:  green;
+    height:  100px;
+    width:  100%;
+}
+.part{
+    background:  gray;
+    height: 300px;
+    width:  100%;
+}
+.part1{
+    background:  pink;
+    height: 300px;
+    width:  33.3%;
+    float:  left;
+}
+.part2{
+
+background:  red;
+
+height:  300px;
+
+width:  33.3%;
+
+float:  left;
+}
+.part3{
+    background: #14cacc45;
+    height:  300px;
+    width:  33.3%;
+    float:  left;
+}
+.footer{
+    background:  orange;
+    height:  100px;
+    width:  100%;
+}
